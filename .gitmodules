@@ -1,0 +1,15 @@
+[submodule "CS420-CL3toCPS"]
+	path = CS420-CL3toCPS
+	url = git@github.com:wiggleman/CS420-CL3toCPS.git
+[submodule "CS420ClosureConversion"]
+	path = CS420ClosureConversion
+	url = git@github.com:wiggleman/CS420ClosureConversion.git
+[submodule "CS420-ValueRepresentation"]
+	path = CS420-ValueRepresentation
+	url = git@github.com:wiggleman/CS420-ValueRepresentation.git
+[submodule "CS420_Optimization"]
+	path = CS420_Optimization
+	url = git@github.com:wiggleman/CS420_Optimization.git
+[submodule "cs420-garbage-collection"]
+	path = cs420-garbage-collection
+	url = git@github.com:wiggleman/cs420-garbage-collection.git
